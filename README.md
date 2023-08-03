@@ -1,4 +1,4 @@
-# Hey there!! Welcome to my profile!
+# Hey there!! Welcome to my profile 😃!
 ## Web developer front-end beginner.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanmm6&show_icons=true&theme=radical)
